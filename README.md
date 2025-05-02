@@ -66,20 +66,7 @@ print("HeapDynamic[0]:", heap_dynamic[0])
 
 ---
 
-### ✅ GitHub Submission Tip
 
-* Create a repo named: `array-allocation-categories`
-* Upload both files.
-* Add a simple `README.md`:
-
-```markdown
-# Array Allocation Categories
-
-This repo demonstrates:
-- a) Fixed Stack Dynamic
-- b) Stack Dynamic
-- c) Fixed Heap Dynamic
-- d) Heap Dynamic
 
 Languages used: C++ and Python
 ```
